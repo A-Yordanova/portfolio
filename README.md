@@ -1,5 +1,6 @@
-# portfolio
-Projects completed as part of my training in Yandex Practicum.
+# Yandex Practicum Data Science Projects
+Projects completed as part of my training in Yandex Practicum.<br>
+[Certificate of Сompletion (English)](https://github.com/A-Yordanova/yandex-practicum/blob/main/Anna%20Yordanova_Certificate_20242DS00211.pdf)
 
 |Project|Description|Key words|Libraries|
 |:--|:--|:--|:--|
